@@ -1,7 +1,7 @@
 # Tina - Turners Interview Chatbot
 
 ## Project Overview
-This application was developed as a final project for my diploma. It is designed for **Turners Car Insurance** to assist their staff during a major digital transformation. 
+This application was developed as a project for my diploma. It is designed for **Turners Car Insurance** to assist their staff during a major digital transformation. 
 
 As the company evolves, many staff members are being retrained into new roles. This chatbot, **Tina**, provides a safe and professional environment for employees to practice their interview skills for these new positions.
 
@@ -23,6 +23,3 @@ As the company evolves, many staff members are being retrained into new roles. T
 2. Click "Start Interview with Tina".
 3. Respond to Tina's questions. You can type 'skip' or 'revisit' if needed.
 4. Receive a full feedback summary and score at the end of the 7 questions.
-
----
-*Developed for the Turners Car Insurance Digital Transformation Program.*
