@@ -14,7 +14,7 @@ As the company evolves, many staff members are being retrained into new roles. T
 
 ## Tech Stack
 - **Frontend**: React 19, Tailwind CSS, Framer Motion, Lucide React.
-- **Backend**: Node.js, Express.
+- **Backend**: Typescript, Node.js, Express.
 - **AI**: Google Gemini API (@google/genai).
 - **Typography**: Poppins.
 
