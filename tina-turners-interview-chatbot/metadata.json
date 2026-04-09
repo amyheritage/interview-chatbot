@@ -1,0 +1,5 @@
+{
+  "name": "Tina - Turners Interview Chatbot",
+  "description": "An interview practice chatbot for Turners Car Insurance staff retraining, featuring a neumorphic design and AI-powered feedback.",
+  "requestFramePermissions": ["microphone"]
+}
